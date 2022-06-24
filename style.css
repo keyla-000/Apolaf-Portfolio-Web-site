@@ -1,0 +1,102 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Arima+Madurai&family=Genos:wght@300&family=Karla:ital,wght@0,800;1,500&family=Michroma&display=swap');
+
+body {
+background-color: #000000
+  
+}
+
+.gallery__img{
+width: 60%;
+position: relative;
+padding-left: 263px;
+padding-right: 200px;
+margin-top: 50px;
+margin-bottom: 25px;
+}
+
+
+*{
+font-family:'Michroma';
+color: white;
+}
+
+.contact__text {
+color: rgb(255, 255, 255);
+text-decoration: none;
+}
+
+.seccion--top{
+height: 80vh;
+}
+
+.section--works {
+ text-align: center;
+}
+
+.mov2{
+    margin-right: 200px;
+    margin-left: 200px;
+
+}
+.mov5{
+    margin-right: 50px;
+    margin-left: 50px;
+
+}
+
+.works_items{
+color: white;
+margin-top: 20px;
+margin-bottom: 100px;
+text-align:center;
+}
+
+.border{ 
+border-top: 1px solid #ffffff;
+bottom: 300px;
+margin-top: 180px;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.img--logo{
+width: 50vw;
+position:relative;
+margin-top: 50px;
+margin-bottom: 50px;
+margin-right: 162px;
+margin-left: 30px;
+}
+
+.img--movlav{
+    top: 0%;
+    left: 300px;
+}
+
+.subtitulo{
+ margin-top:100px;
+
+font-size:12px;
+text-align: center;
+}
+
+.contact__column{
+    width:50%;
+}
+
+.contact__inner{
+    display:inline-flex;
+}
+
+.contact__inner__2{
+    display:inline-flex;
+    padding-left:300px;
+}
+
+.section--contact{
+padding-left:20px;
+padding-right:50px;
+padding-bottom:60px;
+font-size:13px;
+}
